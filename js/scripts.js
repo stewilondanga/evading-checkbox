@@ -1,15 +1,15 @@
-/*$(function(){
-    $(".checkme").on({
-        mouseover:function(){
-            $(this).css({
-                left:(Math.random()*200)+"px",
-                top:(Math.random()*200)+"px",
-            });
-        }
-    });
+$(function() {
+  $(".checkme").on({
+    mouseover: function() {
+      $(this).css({
+        left: (Math.random() * 200) + "px",
+        top: (Math.random() * 200) + "px",
+      });
+    }
+  });
 });
 
-var navigate = (function() {
+/*var navigate = (function() {
 	$('.dd').toggle();
 	$('.dd_btn').click(function() {
 		var dataName = $(this).attr('data-name');
