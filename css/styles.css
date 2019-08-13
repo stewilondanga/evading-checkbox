@@ -29,14 +29,14 @@ body {
   cursor: pointer;
 }
 
-/*p{
+p {
   padding-left: 15px;
   color: #fff;
   font-weight: bold;
   font-size: 30px
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
