@@ -21,6 +21,27 @@ body {
   height: 1.5em;
 }
 
+body {
+  margin: 0;
+  height: 100vh;
+  place-items: center;
+  background-color: grey;
+}
+.checkme{
+  position:absolute;
+  background-color: white;
+      height: 25px;
+    width: 25px;
+  border: solid 4px #000000;
+  cursor: pointer;
+}
+p{
+  padding-left: 15px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 30px
+}
+
 .containers {
   width: 520px;
   margin: 20px auto;
