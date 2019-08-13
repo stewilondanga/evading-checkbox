@@ -20,15 +20,16 @@ body {
   height: 1.5em;
 }
 
-/*.checkme{
-  position:absolute;
+.checkme {
+  position: absolute;
   background-color: white;
-      height: 25px;
-    width: 25px;
+  height: 25px;
+  width: 25px;
   border: solid 4px #000000;
   cursor: pointer;
 }
-p{
+
+/*p{
   padding-left: 15px;
   color: #fff;
   font-weight: bold;
